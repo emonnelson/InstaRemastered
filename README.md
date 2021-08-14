@@ -1,7 +1,7 @@
 # InstaRemastered
-# Project 3 - *Name of App Here*
+# Project 3 - *Unit 5 Project: Build Instagram from the Ground Up - Part 1*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **24** hours spent in total
 
